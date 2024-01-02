@@ -1,0 +1,6 @@
+{
+    "port": "COM8",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "Battery_testing_arduino\\Battery_testing_arduino.ino"
+}
